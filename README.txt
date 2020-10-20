@@ -1,8 +1,3 @@
-Hi Mr.Michie (or everyone),
-For this project:
+Hello everyone
 
-You need to download the all the files and place them in a single folder.
-
-Then, just open the "main.html" and do not open anything else (or edit).
-
-If you have any questions, feel free to ask me.
+Website Here: https://daarush.github.io/Beowulf-Project/ 
